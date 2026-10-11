@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "english": "Here is one question programmers don't ask enough. Who will read your code?",
+    "hindi": ""
+  },
+  {
+    "start": 4.0,
+    "end": 9.040000000000001,
+    "english": "Maybe you think my code works and that's enough but no. Just imagine six months from now you forget",
+    "hindi": ""
+  },
+  {
+    "start": 9.040000000000001,
+    "end": 13.120000000000001,
+    "english": "how it works or maybe another developer joins your team and has to change it. Now your code is not",
+    "hindi": ""
+  },
+  {
+    "start": 13.120000000000001,
+    "end": 18.400000000000002,
+    "english": "just for computers it's for humans. Look at these variables int x or another one is int number of",
+    "hindi": ""
+  },
+  {
+    "start": 18.400000000000002,
+    "end": 23.44,
+    "english": "students. The computer doesn't care both works but which one helps you to understand the program",
+    "hindi": ""
+  },
+  {
+    "start": 23.44,
+    "end": 29.92,
+    "english": "faster. Exactly you got it. Good code should make the next person's job easier. Use meaningful name",
+    "hindi": ""
+  },
+  {
+    "start": 29.92,
+    "end": 35.2,
+    "english": "keep function focused. Don't try to write unnecessarily complicated code and don't try to",
+    "hindi": ""
+  },
+  {
+    "start": 35.2,
+    "end": 39.92,
+    "english": "look clever because there is a dangerous temptation in programming. Writing complicated code just to",
+    "hindi": ""
+  },
+  {
+    "start": 39.92,
+    "end": 45.52,
+    "english": "prove you are smart. Don't because the best code is often boring it's easy to change easy to test",
+    "hindi": ""
+  },
+  {
+    "start": 45.52,
+    "end": 51.040000000000006,
+    "english": "easy to read and remember computers have to run your code once but developers have to read it",
+    "hindi": ""
+  },
+  {
+    "start": 51.040000000000006,
+    "end": 57.44,
+    "english": "hundreds of times. Tomorrow I'll show you why comments don't automatically make bad code good.",
+    "hindi": ""
+  }
+]
