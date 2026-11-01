@@ -1,0 +1,2 @@
+file '/Users/rachitar/Downloads/DUBVERSE-master final/storage/outputs/project_15/temp_clips/clip_0.mp4'
+file '/Users/rachitar/Downloads/DUBVERSE-master final/storage/outputs/project_15/temp_clips/clip_1.mp4'
